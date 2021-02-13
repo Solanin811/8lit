@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<title>Orthoverse Asset Test</title>
+<meta name='description' content='Orthoverse Animation Test'>
+</head>
+<body>
+<a-scene>
+<a-assets>
+
+<img id="test" src="file:///C:\Users\k-shi\Downloads\プレゼンテーション1\スライド12.JPG">
+
+</a-assets>
+<a-entity geometry="primitive: plane" material="src: #test" rotation="0 180 0"></a-entity>
+</a-scene>
+</body>
