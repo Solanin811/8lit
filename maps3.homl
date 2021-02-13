@@ -9,7 +9,7 @@
 <a-scene>
 <a-assets>
 
-<img id="test" src="file:///C:\Users\k-shi\Downloads\プレゼンテーション1\スライド14.JPG">
+<img id="test" src="https://oho-sugu.github.io/littest/SLIDE14.JPG">
 
 </a-assets>
 <a-entity geometry="primitive: plane" material="src: #test" rotation="0 180 0"></a-entity>
