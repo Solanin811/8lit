@@ -9,7 +9,7 @@
 <a-scene>
 <a-assets>
 
-<img id="test" src="file:///https://oho-sugu.github.io/littest/SLIDE7.JPG">
+<img id="test" src="https://oho-sugu.github.io/littest/SLIDE7.JPG">
 
 
 </a-assets>
